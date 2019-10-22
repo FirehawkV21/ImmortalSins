@@ -1,4 +1,4 @@
-# Immortal Sins (VX Ace Version)
+# Immortal Sins
 
 ## Setup
 
@@ -7,11 +7,12 @@
 | |Minimum|Reccomended|
 |-|-|-|
 |OS|Windows 7 with Service Pack 1 or higher|Windows 10|
-|CPU|2.0GHz Intel or AMD CPU|2.20GHz Multicore Intel or AMD CPU|
+|CPU|1.5GHz Intel or AMD CPU|2.20GHz Multicore Intel or AMD CPU|
 |GPU|Intel HD Graphics 3000|AMD Radeon 46xxM|
-|RAM|512MB|8GB|
-|Storage Space|200~600MB Free Space|200~600MB Free Space|
-|DirectX|9.0c|11|
+|RAM|512MB|4GB|
+|Storage Space|200~500MB Free Space|200~500MB Free Space|
+|Launcher Dependencies|Microsoft .NET Framework 4.6.2|Microsoft .NET Framework 4.7.1 or newer|
+|DirectX|9.0c||
 
 The better the computer's specifications, the faster the game can run.
 
@@ -20,7 +21,7 @@ The better the computer's specifications, the faster the game can run.
 #### Install standalone version
 
 1. Download the game from an official mirror.
-2. Once it's downloaded, run the ImmortalSinsSE_Setup.exe
+2. Once it's downloaded, run the ImmortalSins_Beta_Setup.exe
 3. If you want, you can pick where the game will be installed, by clicking “Browse…”. Click on Next.
 4. You'll be taken to a checklist. If all are ticked, click on Next. If not, click on each item and see what you need to fix them.
 5. Wait for a few minutes. Once it finishes, Click Finish. You might need to restart the system if the .NET Framework was installed.
